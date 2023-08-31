@@ -33,7 +33,7 @@ Follow these steps to get started with these project:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/whatsapp-chat-analysis-ML.git
+   git clone https://github.com/abhijeetGithu/Computer-vision-YOLO-projects.git
    cd whatsapp-chat-analysis-ML
 
 ## Contributing
