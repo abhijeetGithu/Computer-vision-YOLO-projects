@@ -41,6 +41,5 @@ Follow these steps to get started with these project:
 Contributions are welcome! If you discover issues or wish to contribute improvements to any of the projects, feel free to open a pull request.
 
 ## License
-This project is licensed under the MIT License.
 
 This repository is licensed under the [MIT License](LICENSE).
