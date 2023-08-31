@@ -1,2 +1,31 @@
-# Computer-vision-YOLO-projects
-mplement real-time object detection using the YOLO (You Only Look Once) algorithm. Detect objects in images and videos with high accuracy and efficiency. This project showcases the power of deep learning and computer vision techniques in identifying objects within visual content.
+# Computer Vision YOLO Projects
+
+This repository contains multiple computer vision projects that utilize the YOLO (You Only Look Once) algorithm for real-time object detection. Each project focuses on a specific application, demonstrating the versatility of YOLO in various contexts.
+
+![Project Image](path_to_your_image.jpg)
+
+## Projects
+
+### PPE Detection
+
+Implement real-time Personal Protective Equipment (PPE) detection. Detect whether individuals in images or videos are wearing essential safety equipment such as helmets, vests, and masks. This project showcases the potential of YOLO in workplace safety and compliance monitoring.
+
+### Poker Hand Detector
+
+Utilize YOLO for recognizing poker hands in images. Train the model to detect and classify playing cards and determine the winning hand combinations. This project demonstrates the application of YOLO in the gaming and entertainment industry.
+
+### Car Counter CV
+
+Develop a car counting system using YOLO. Detect and track vehicles in traffic videos to monitor traffic flow and congestion. This project highlights the use of YOLO for traffic management and analysis.
+
+## Getting Started
+
+Each project is organized in its own directory. Navigate to the respective project directory to find detailed instructions on setting up and running the project.
+
+## Contributing
+
+Contributions are welcome! If you discover issues or wish to contribute improvements to any of the projects, feel free to open a pull request.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
