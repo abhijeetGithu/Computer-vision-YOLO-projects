@@ -28,11 +28,19 @@ Develop a car counting system using YOLO. Detect and track vehicles in traffic v
 ## Getting Started
 
 Each project is organized in its own directory. Navigate to the respective project directory to find detailed instructions on setting up and running the project.
+Follow these steps to get started with these project:
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/whatsapp-chat-analysis-ML.git
+   cd whatsapp-chat-analysis-ML
 
 ## Contributing
 
 Contributions are welcome! If you discover issues or wish to contribute improvements to any of the projects, feel free to open a pull request.
 
 ## License
+This project is licensed under the MIT License.
 
 This repository is licensed under the [MIT License](LICENSE).
