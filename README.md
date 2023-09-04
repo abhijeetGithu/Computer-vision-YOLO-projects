@@ -42,4 +42,4 @@ Contributions are welcome! If you discover issues or wish to contribute improvem
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE).
+This repository is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
