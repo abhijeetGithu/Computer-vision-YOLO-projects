@@ -23,7 +23,7 @@ Utilize YOLO for recognizing poker hands in images. Train the model to detect an
 
 Develop a car counting system using YOLO. Detect and track vehicles in traffic videos to monitor traffic flow and congestion. This project highlights the use of YOLO for traffic management and analysis.
 
-![Project Image](https://blog.roboflow.com/content/images/2023/02/tracking-counting-yolov8.png)
+![Project Image](https://cmreed.org/wp-content/uploads/2022/08/vlcsnap-2022-08-12-01h29m19s700.png)
 
 ## Getting Started
 
