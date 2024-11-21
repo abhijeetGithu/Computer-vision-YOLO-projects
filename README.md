@@ -16,7 +16,7 @@ Implement real-time Personal Protective Equipment (PPE) detection. Detect whethe
 
 Utilize YOLO for recognizing poker hands in images. Train the model to detect and classify playing cards and determine the winning hand combinations. This project demonstrates the application of YOLO in the gaming and entertainment industry.
 
-![Project Image]([https://miro.medium.com/v2/resize:fit:494/1*ctpvU7toOVy8p9ODKnDgtA.png](https://i.ytimg.com/vi/pnntrewH0xg/maxresdefault.jpg))
+![Project Image](https://i.ytimg.com/vi/pnntrewH0xg/maxresdefault.jpg)
 
 
 ### Car Counter CV
