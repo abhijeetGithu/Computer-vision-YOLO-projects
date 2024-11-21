@@ -10,7 +10,7 @@ This repository contains multiple computer vision projects that utilize the YOLO
 
 Implement real-time Personal Protective Equipment (PPE) detection. Detect whether individuals in images or videos are wearing essential safety equipment such as helmets, vests, and masks. This project showcases the potential of YOLO in workplace safety and compliance monitoring.
 
-![Project Image](https://media.licdn.com/dms/image/C5612AQGa7wgjmpiYug/article-cover_image-shrink_600_2000/0/1610814232977?e=2147483647&v=beta&t=1Z2e0YUeer_gAdiPunPBpX6mjkSukpd9KMCOInd0puo)
+![Project Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR27AcCDCplU0G3qbUXMma0pkMgfvl3MsuISw&s)
 
 ### Poker Hand Detector
 
