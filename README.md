@@ -2,7 +2,7 @@
 
 This repository contains multiple computer vision projects that utilize the YOLO (You Only Look Once) algorithm for real-time object detection. Each project focuses on a specific application, demonstrating the versatility of YOLO in various contexts.
 
-![Project Image]([https://editor.analyticsvidhya.com/uploads/1512812.png](https://drive.google.com/file/d/1-OFS0UpGzhp3NiQLJQfhfEC2bjN50_HN/view?usp=sharing))
+![Project Image](/2023-06-03%20(2).png)
 
 ## Projects
 
